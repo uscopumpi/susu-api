@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/rls-guard-interpolation",
+    "main",
+    "origin",
+    "phase5/account-api"
+  ],
+  "parent": {
+    "fix/rls-guard-interpolation": "main",
+    "main": null,
+    "origin": "main",
+    "phase5/account-api": "main"
+  },
+  "order": [
+    "main",
+    "fix/rls-guard-interpolation",
+    "origin",
+    "phase5/account-api"
+  ]
+}
